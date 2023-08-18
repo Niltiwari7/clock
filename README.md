@@ -1,5 +1,8 @@
 **Project Title:** Stylish Gradient Clock
+
+
 **Screen Shot**
+
 ![image](https://github.com/Niltiwari7/clock/assets/93751356/39601c62-2844-426c-a2ef-9a9bbd40dee5)
 
 **Description:**
